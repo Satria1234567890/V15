@@ -3,25 +3,22 @@ return `「 *PRICE LIST* 」
 							
 ⬣ PRICE SEWABOT
 
-⬡ 1 MINGGU = Rp 5.000
-⬡ 2 MINGGU = Rp 8.000
-⬡ 3 MINGGU = Rp 10.000
-⬡ 1 BULAN = Rp 15.000
-⬡ PERMANEN = Rp 100.000
-⬡ PERMANEN + USER PREM = Rp 150.000
+⬡ 1 jam test sebelum beli free 
 
 
-⬣ PRICE JADIBOT
+⬡ PERMANEN+USER PREM = Rp 7.000
 
-⬡ JADI BOT PERMANEN 25K
+
+
+
 
 
 ⬣ MINAT? PM
-⬡ wa.me/62887435047326
+⬡ wa.me/6285803583481
 
 
 NOTE : 
-Bot On 24 Jam Karna Di Run Menggunakan Heroku
+Bot On 24 Jam Karna Di Run Menggunakan RDP
 Reset Data Setiap Jam 02:00 `
 	}
 
