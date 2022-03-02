@@ -33,7 +33,7 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 ♋ Tiktok : tiktok.com/@zeeoneofc
 ♌ Telegram : t.me/Beta200
 ♎ Ch Telegram : t.me/Beta200
-♏ WhatsApp : +6285803583481
+♏ WhatsApp : +6283172028085
 `}
 
 exports.infobot = infobot
