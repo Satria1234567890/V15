@@ -4,7 +4,7 @@ const setting = JSON.parse(fs.readFileSync('./settings.json'))
 
 // Website Api
 global.APIs = {
-	Zenz-Api: 'https://zenzapi.xyz',
+	Zenz: 'https://zenzapi.xyz',
 	zeks: 'https://zeks.me',
 }
 
