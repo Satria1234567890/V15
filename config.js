@@ -10,8 +10,8 @@ global.APIs = {
 
 // Free apikey
 global.APIKeys = {
-	'https://zenzapi.xyz': 'R3wVZ8YfjSdCAi9Lthr0jf1lTub',
-	'https://zeks.me': 'fdd8cefb8168',
+	'https://zeks.me': 'R3wVZ8YfjSdCAi9Lthr0jf1lTub',
+	'https://zenzapi.xyz': 'fdd8cefb8168',
 }
 
 global.owner = ['62887435047326','918156874290']
