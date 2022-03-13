@@ -4,14 +4,14 @@ const setting = JSON.parse(fs.readFileSync('./settings.json'))
 
 // Website Api
 global.APIs = {
-	lolhuman: 'https://api.lolhuman.xyz/',
+	Zenz-Api: 'https://zenzapi.xyz',
 	zeks: 'https://zeks.me',
 }
 
 // Free apikey
 global.APIKeys = {
-	'https://api.lolhuman.xyz/': 'BETA BOTZ',
-	'https://zeks.me': 'BetaBotz',
+	'https://zenzapi.xyz': 'R3wVZ8YfjSdCAi9Lthr0jf1lTub',
+	'https://zeks.me': 'fdd8cefb8168',
 }
 
 global.owner = ['62887435047326','918156874290']
