@@ -4,14 +4,14 @@ const setting = JSON.parse(fs.readFileSync('./settings.json'))
 
 // Website Api
 global.APIs = {
-	Zenz: 'https://zenzapi.xyz',
-	zeks: 'https://zeks.me',
+	BetaBotz: 'https://betaapikey.herokuapp.com',
+	BetaBotz: 'https://betaapikey.herokuapp.com',
 }
 
 // Free apikey
 global.APIKeys = {
-	'https://zeks.me': 'R3wVZ8YfjSdCAi9Lthr0jf1lTub',
-	'https://zenzapi.xyz': 'fdd8cefb8168',
+	'https://betaapikey.herokuapp.com': 'BetaBotz',
+	'https://betaapikey.herokuapp.com': 'BetaBotz',
 }
 
 global.owner = ['62887435047326','918156874290']
